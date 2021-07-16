@@ -1,2 +1,2 @@
 # test2
-test secon method
+test second method
